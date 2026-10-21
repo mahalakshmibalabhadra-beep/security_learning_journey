@@ -51,8 +51,9 @@ security-learning-journey/
 *Entries will be listed here as I publish them.*
 
 | Date | Title | Topic |
-|19.10.2026| Installations| intro to cybersecurity|
-|20.10.2026| Hands on practice| Linux commands |
+| --- | --- | --- |
+| 19.10.2026 | Installations| intro to cybersecurity|
+| 20.10.2026 | Hands on practice| Linux commands |
 ---
 
 ## Ethics
